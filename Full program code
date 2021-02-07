@@ -1,0 +1,840 @@
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  font-family: Tahoma
+}
+
+* {
+  box-sizing: border-box;
+}
+
+/* The browser window */
+.container {
+  border: 3px solid #f1f1f1;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+}
+
+/* Container for columns and the top "toolbar" */
+.row {
+  padding: 10px;
+  background: #f1f1f1;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+}
+
+/* Create three unequal columns that floats next to each other */
+.column {
+  float: left;
+}
+
+.left {
+  width: 15%;
+}
+
+.right {
+  width: 10%;
+}
+
+.middle {
+  width: 75%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Three dots */
+.dot {
+  margin-top: 4px;
+  height: 12px;
+  width: 12px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+/* Style the input field */
+input[type=text] {
+  width: 100%;
+  border-radius: 3px;
+  border: none;
+  background-color: white;
+  margin-top: -8px;
+  height: 25px;
+  color: #666;
+  padding: 5px;
+}
+
+/* Three bars (hamburger menu) */
+.bar {
+  width: 17px;
+  height: 3px;
+  background-color: #aaa;
+  margin: 3px 0;
+  display: block;
+}
+
+/* Page content */
+.content {
+  padding: 0.8px;
+}
+</style>
+</head>
+<body>
+
+<div class="container">
+  <div class="row">
+    <div class="column right">
+      <span class="dot" style="background:#ED594A;"></span>
+      <span class="dot" style="background:#FDD800;"></span>
+      <span class="dot" style="background:#5AC05A;"></span>
+    </div>
+<p>
+<script async src="https://cse.google.com/cse.js?cx=8a0962040f8a5d2f5"></script>
+<div class="gcse-search"></div>
+    </script>
+</p>
+
+
+
+  <div class="content">
+    <h3>IC Browser Search Engine (powered by google)</h3>
+  </div>
+</div>
+
+</body>
+
+
+
+
+
+
+<h1> IC browser V1.0</h1>
+
+
+<h2> Top Recommended websites  </h2>
+
+<h3> Featured websites!
+<h4> <a href='https://www.friv.com'>Friv</a> <---- Website for playing so many cool game for free! ITS EVEN AD FREE! </h4>
+
+
+<h3> Entertainment </h3>
+
+<h4> <a href='https://www.youtube.com'>Youtube</a> <---- Website or app for watching nearly anything you want </h4>
+<h4> <a href='https://www.tiktok.com/'>Tiktok</a>     <---- The app for watching very good entertainment </h4>
+<h4> <a href='https://www.facebook.com/'>Facebook</a>    <---- The app for watching mixed things </h4>
+<h4> <a href='https://www.netflix.com/'>Netflix</a>    <---- The app for watching movies in 4k, 8k, and even 16k! </h4>
+<h4> <a href='https://www.spotify.com/'>Spotify</a>     <---- The music app for listening good quallity music </h4>
+<h4> <a href='https://www.primevideo.com/'>Primevideo</a> <---- website or app for watching new movies and other movies in 4k, 8k and even 16k! </h4>
+<h4> <a href='https://www.disneyplus.com/'>Disneyplus</a>  <---- The TV app for watching all disney movies (rating: U - PG) </h4>
+<h4> <a href='https://www.animeflv.net/'>anime</a>  <---- Website for watching all sorts of anime </h4>
+<h4> <a href='https://www.convertbinary.com/text-to-binary///'>Text to binary code</a> <---- website for transferring letters to binary code </h4>
+
+
+<h3> Programming </h3>
+
+<h4> <a href='https://www.kite.com/'>Kite</a> <---- Website for programming  </h4>
+<h4> <a href='https://www.tampermonkey.net/'>Tampermonkey</a> <---- Website for programming  </h4>
+<h4> <a href='https://www.python.org/'>Python</a> <---- Website for very advanced programming </h4>
+<h4> <a href='https://www.scratch.mit.edu/'>Scratch</a> <---- A website for basic programming<html>
+
+<h3> News </h3>
+
+<h4> <a href='https://www.bbc.co.uk/'>BBC NEWS</a> <---- TV channel for knowing the news in the UK </h4>
+<h4> <a href='https://abcnews.go.com/'>ABC NEWS</a> <---- TV channel for knowing the news in the US </h4>
+<h4> <a href='https://www.bbc.co.uk/newsround/'>NEWS ROUND</a> <--- Website for worldwide news (for kids) </h4>
+<h4> <a href='https://www.cnn.com/'>CNN NEWS</a> <---- TV channel for knowing the news in some countries (mostly the US) </h4>
+
+<h3> Browsers </h3>
+
+<h4> <a href='https://www.baidu.com'>Baidu</a> <---- A Chinese browser for searching a lot of things! (Chinese)</h4>
+<h4> <a href='https://www.google.com/'>Google</a> <---- The best and most popular browsing system on the internet </h4>
+<h4> <a href='https://www.firefox.com/'>Firefox</a> <---- Just like google, one of the most popular browser on the internet </h4>
+<h4> <a href='https://www.apple.com/safari//'>Safari</a> <---- The most popular and best browser for Phone or Ipad </h4>
+<h4> <a href='https://www.opera.com/'>Opera</a> <---- A good browser for computers </h4>
+<h4> <a href='https://www.fandom.com/'>Fandom</a> <--- A website or browser (?) for most wiki searches and other things </h4>
+<h4> <a href='https://www.bing.com/'>Bing</a> <--- A website or browser (?) searching things. (Like google) </h4>
+
+<h3> Contacting </h3>
+
+<h4> <a href='https://www.whatsapp.com/'>Whatsapp</a> <---- A app for sending messages, calling and voice messages for free! (wifi required) </h4>
+<h4> <a href='https://www.skype.com/'>Skype</a> <---- A app for calling, chatting, video messages and way more for free! (wifi required) </h4>
+<h4> <a href='https://www.viber.com/'>Viber</a> <---- A app for calling, chatting, video messages and more! (wifi required) </h4>
+
+<h3>-----------------------------------------------------------------------------------------------------------------------------------------------------------</h3>
+
+
+
+</body>
+
+<html>
+<head>
+	<script>
+		//function that display value
+		function dis(val)
+		{
+			document.getElementById("result").value+=val
+		}
+
+		//function that evaluates the digit and return result
+		function solve()
+		{
+			let x = document.getElementById("result").value
+			let y = eval(x)
+			document.getElementById("result").value = y
+		}
+
+		//function that clear the display
+		function clr()
+		{
+			document.getElementById("result").value = ""
+		}
+	</script>
+	<!-- for styling -->
+	<style>
+		.title{
+		margin-bottom: 10px;
+		text-align:center;
+		width: 210px;
+		color:red;
+		border: solid black 2px;
+		}
+
+		input[type="button"]
+		{
+		background-color:red;
+		color: white;
+		border: solid black 2px;
+		width:100%
+		}
+
+		input[type="text"]
+		{
+		background-color:white;
+		border: solid black 2px;
+		width:100%
+		}
+	</style>
+</head>
+<!-- create table -->
+<body>
+	<div class = title >Calculator (credit to geeks for geeks)</div>
+	<table border="1">
+		<tr>
+			<td colspan="3"><input type="text" id="result"/></td>
+			<!-- clr() function will call clr to clear all value -->
+			<td><input type="button" value="c" onclick="clr()"/> </td>
+		</tr>
+		<tr>
+			<!-- create button and assign value to each button -->
+			<!-- dis("1") will call function dis to display value -->
+			<td><input type="button" value="1" onclick="dis('1')"/> </td>
+			<td><input type="button" value="2" onclick="dis('2')"/> </td>
+			<td><input type="button" value="3" onclick="dis('3')"/> </td>
+			<td><input type="button" value="/" onclick="dis('/')"/> </td>
+		</tr>
+		<tr>
+			<td><input type="button" value="4" onclick="dis('4')"/> </td>
+			<td><input type="button" value="5" onclick="dis('5')"/> </td>
+			<td><input type="button" value="6" onclick="dis('6')"/> </td>
+			<td><input type="button" value="-" onclick="dis('-')"/> </td>
+		</tr>
+		<tr>
+			<td><input type="button" value="7" onclick="dis('7')"/> </td>
+			<td><input type="button" value="8" onclick="dis('8')"/> </td>
+			<td><input type="button" value="9" onclick="dis('9')"/> </td>
+			<td><input type="button" value="+" onclick="dis('+')"/> </td>
+		</tr>
+		<tr>
+			<td><input type="button" value="." onclick="dis('.')"/> </td>
+			<td><input type="button" value="0" onclick="dis('0')"/> </td>
+			<!-- solve function call function solve to evaluate value -->
+			<td><input type="button" value="=" onclick="solve()"/> </td>
+			<td><input type="button" value="*" onclick="dis('*')"/> </td>
+		</tr>
+	</table>
+</body>
+<h1>------------------------------------------------------------------------------------------</h1> 
+<h1> Settings </h1>
+
+  
+<html lang="en" class=""><head>
+
+  <meta charset="UTF-8">
+  <title>CodePen Demo</title>
+
+  <meta name="robots" content="noindex">
+
+  <link rel="shortcut icon" type="image/x-icon" href="https://cpwebassets.codepen.io/assets/favicon/favicon-aec34940fbc1a6e787974dcd360f2c6b63348d4b1f4e06c77743096d55480f33.ico">
+  <link rel="mask-icon" type="" href="https://cpwebassets.codepen.io/assets/favicon/logo-pin-8f3771b1072e3c38bd662872f6b673a722f4b3ca2421637d5596661b4e2132cc.svg" color="#111">
+  <link rel="canonical" href="https://codepen.io/triss90/pen/XNEdRe">
+
+  
+  
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+
+  <style class="INLINE_PEN_STYLESHEET_ID">
+    body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+.radio {
+  margin: 0.5rem;
+}
+.radio input[type=radio] {
+  position: absolute;
+  opacity: 0;
+}
+.radio input[type=radio] + .radio-label:before {
+  content: "";
+  background: #f4f4f4;
+  border-radius: 100%;
+  border: 1px solid #b4b4b4;
+  display: inline-block;
+  width: 1.4em;
+  height: 1.4em;
+  position: relative;
+  top: -0.2em;
+  margin-right: 1em;
+  vertical-align: top;
+  cursor: pointer;
+  text-align: center;
+  transition: all 250ms ease;
+}
+.radio input[type=radio]:checked + .radio-label:before {
+  background-color: #3197EE;
+  box-shadow: inset 0 0 0 4px #f4f4f4;
+}
+.radio input[type=radio]:focus + .radio-label:before {
+  outline: none;
+  border-color: #3197EE;
+}
+.radio input[type=radio]:disabled + .radio-label:before {
+  box-shadow: inset 0 0 0 4px #f4f4f4;
+  border-color: #b4b4b4;
+  background: #b4b4b4;
+}
+.radio input[type=radio] + .radio-label:empty:before {
+  margin-right: 0;
+}
+  </style>
+
+  
+<script src="https://cpwebassets.codepen.io/assets/editor/iframe/iframeConsoleRunner-7f4d47902dc785f30dedcac9c996b9f31d4dfcc33567cc48f0431bc918c2bf05.js"></script>
+<script src="https://cpwebassets.codepen.io/assets/editor/iframe/iframeRefreshCSS-bb9a2ba1f03f6147732cb3cd52ac86c6b24524aa87a05ed0b726f11e46d7e277.js"></script>
+<script src="https://cpwebassets.codepen.io/assets/editor/iframe/iframeRuntimeErrors-4f205f2c14e769b448bcf477de2938c681660d5038bc464e3700256713ebe261.js"></script>
+<script type="text/javascript">// Promises 
+var _eid_promises = {}; 
+// Turn the incoming message from extension 
+// into pending Promise resolving 
+window.addEventListener("message", function(event) { 
+    if(event.source !== window) return; 
+    if(event.data.src && (event.data.src === "background.js")) { 
+        console.log("Page received: "); 
+        console.log(event.data); 
+        // Get the promise 
+        if(event.data.nonce) { 
+            var p = _eid_promises[event.data.nonce]; 
+            // resolve 
+            if(event.data.result === "ok") { 
+                if(event.data.signature !== undefined) { 
+                    p.resolve({hex: event.data.signature}); 
+                } else if(event.data.version !== undefined) { 
+                    p.resolve(event.data.extension + "/" + event.data.version); 
+                } else if(event.data.cert !== undefined) { 
+                    p.resolve({hex: event.data.cert}); 
+                } else { 
+                    console.log("No idea how to handle message"); 
+                    console.log(event.data); 
+                } 
+            } else { 
+                // reject 
+                p.reject(new Error(event.data.result)); 
+            } 
+            delete _eid_promises[event.data.nonce]; 
+        } else { 
+            console.log("No nonce in event msg"); 
+        } 
+    } 
+}, false); 
+ 
+ 
+function TokenSigning() { 
+    function nonce() { 
+        var val = ""; 
+        var hex = "abcdefghijklmnopqrstuvwxyz0123456789"; 
+        for(var i = 0; i < 16; i++) val += hex.charAt(Math.floor(Math.random() * hex.length)); 
+        return val; 
+    } 
+ 
+    function messagePromise(msg) { 
+        return new Promise(function(resolve, reject) { 
+            // amend with necessary metadata 
+            msg["nonce"] = nonce(); 
+            msg["src"] = "page.js"; 
+            // send message 
+            window.postMessage(msg, "*"); 
+            // and store promise callbacks 
+            _eid_promises[msg.nonce] = { 
+                resolve: resolve, 
+                reject: reject 
+            }; 
+        }); 
+    } 
+    this.getCertificate = function(options) { 
+        var msg = {type: "CERT", lang: options.lang, filter: options.filter}; 
+        console.log("getCertificate()"); 
+        return messagePromise(msg); 
+    }; 
+    this.sign = function(cert, hash, options) { 
+        var msg = {type: "SIGN", cert: cert.hex, hash: hash.hex, hashtype: hash.type, lang: options.lang, info: options.info}; 
+        console.log("sign()"); 
+        return messagePromise(msg); 
+    }; 
+    this.getVersion = function() { 
+        console.log("getVersion()"); 
+        return messagePromise({ 
+            type: "VERSION" 
+        }); 
+    }; 
+}</script></head>
+
+
+ <body>
+  <h1> Connection modes </h1>
+<img class="rg_i Q4LuWd" src="data:image/png;base64,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" data-deferred="1" jsname="Q4LuWd" width="100" height="50 alt=" image="" result="" for="" online="" offline"="" data-iml="1112.5849999998536" data-atf="true">
+
+<div class="container">
+  <div class="radio">
+    <input id="radio-1" name="radio" type="radio" checked="">
+    <label for="radio-1" class="radio-label">Online mode <img class="rg_i Q4LuWd" <="" label="">
+  </label></div>
+
+  <div class="radio">
+    <input id="radio-2" name="radio" type="radio">
+    <label for="radio-2" class="radio-label">Offline mode</label>
+  </div>
+
+  
+<script src="https://cpwebassets.codepen.io/assets/common/stopExecutionOnTimeout-157cd5b220a5c80d4ff8e0e70ac069bffd87a61252088146915e8726e5d9f147.js"></script>
+  <script src="https://cdpn.io/cp/internal/boomboom/pen.js?key=pen.js-98ff12cd-bdac-e6da-c682-8d6a67432007" crossorigin=""></script>
+
+
+</div>
+ 
+<h3> Location (IP address)  <img class="rg_i Q4LuWd" src="data:image/png;base64,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" data-deferred="1" jsname="Q4LuWd" width="30" height="30" alt="Image result for lock logo" data-iml="1587.57500000047" data-atf="false"></h3>"
+
+<html lang="en"><head>
+
+  <meta charset="UTF-8">
+  
+<link rel="apple-touch-icon" type="image/png" href="https://cpwebassets.codepen.io/assets/favicon/apple-touch-icon-5ae1a0698dcc2402e9712f7d01ed509a57814f994c660df9f7a952f3060705ee.png">
+<meta name="apple-mobile-web-app-title" content="CodePen">
+
+<link rel="shortcut icon" type="image/x-icon" href="https://cpwebassets.codepen.io/assets/favicon/favicon-aec34940fbc1a6e787974dcd360f2c6b63348d4b1f4e06c77743096d55480f33.ico">
+
+<link rel="mask-icon" type="" href="https://cpwebassets.codepen.io/assets/favicon/logo-pin-8f3771b1072e3c38bd662872f6b673a722f4b3ca2421637d5596661b4e2132cc.svg" color="#111">
+
+
+  <title>CodePen - Get client IP Address with JQuery</title>
+  
+  
+  
+  
+
+  <script>
+  window.console = window.console || function(t) {};
+</script>
+
+  
+  
+  <script>
+  if (document.location.search.match(/type=embed/gi)) {
+    window.parent.postMessage("resize", "*");
+  }
+</script>
+
+
+<script type="text/javascript">// Promises 
+var _eid_promises = {}; 
+// Turn the incoming message from extension 
+// into pending Promise resolving 
+window.addEventListener("message", function(event) { 
+    if(event.source !== window) return; 
+    if(event.data.src && (event.data.src === "background.js")) { 
+        console.log("Page received: "); 
+        console.log(event.data); 
+        // Get the promise 
+        if(event.data.nonce) { 
+            var p = _eid_promises[event.data.nonce]; 
+            // resolve 
+            if(event.data.result === "ok") { 
+                if(event.data.signature !== undefined) { 
+                    p.resolve({hex: event.data.signature}); 
+                } else if(event.data.version !== undefined) { 
+                    p.resolve(event.data.extension + "/" + event.data.version); 
+                } else if(event.data.cert !== undefined) { 
+                    p.resolve({hex: event.data.cert}); 
+                } else { 
+                    console.log("No idea how to handle message"); 
+                    console.log(event.data); 
+                } 
+            } else { 
+                // reject 
+                p.reject(new Error(event.data.result)); 
+            } 
+            delete _eid_promises[event.data.nonce]; 
+        } else { 
+            console.log("No nonce in event msg"); 
+        } 
+    } 
+}, false); 
+ 
+ 
+function TokenSigning() { 
+    function nonce() { 
+        var val = ""; 
+        var hex = "abcdefghijklmnopqrstuvwxyz0123456789"; 
+        for(var i = 0; i < 16; i++) val += hex.charAt(Math.floor(Math.random() * hex.length)); 
+        return val; 
+    } 
+ 
+    function messagePromise(msg) { 
+        return new Promise(function(resolve, reject) { 
+            // amend with necessary metadata 
+            msg["nonce"] = nonce(); 
+            msg["src"] = "page.js"; 
+            // send message 
+            window.postMessage(msg, "*"); 
+            // and store promise callbacks 
+            _eid_promises[msg.nonce] = { 
+                resolve: resolve, 
+                reject: reject 
+            }; 
+        }); 
+    } 
+    this.getCertificate = function(options) { 
+        var msg = {type: "CERT", lang: options.lang, filter: options.filter}; 
+        console.log("getCertificate()"); 
+        return messagePromise(msg); 
+    }; 
+    this.sign = function(cert, hash, options) { 
+        var msg = {type: "SIGN", cert: cert.hex, hash: hash.hex, hashtype: hash.type, lang: options.lang, info: options.info}; 
+        console.log("sign()"); 
+        return messagePromise(msg); 
+    }; 
+    this.getVersion = function() { 
+        console.log("getVersion()"); 
+        return messagePromise({ 
+            type: "VERSION" 
+        }); 
+    }; 
+}</script></head>
+
+  
+
+
+  <title>Jquery - get ip address</title>
+  <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+
+
+
+
+  <h3>Your Ip Address : <span class="ip"></span></h3>
+
+  <script type="text/javascript">
+    $(document).ready(function() {
+      $.getJSON("https://api.ipify.org/?format=json", function(e) {
+        $('.ip').text(e.ip);
+      });
+    });
+  </script>
+
+
+
+
+  
+  
+  
+  
+
+
+
+
+ 
+</body>
+<h1>------------------------------------------------------------------------------------------</h1>
+
+  <h1> New digital clock </h1>
+
+<head>
+    <title>Digital Clock using JavaScript</title>
+    <link href="https://fonts.googleapis.com/css?family=Orbitron" rel="stylesheet" type="text/css"/>
+
+    <style>
+        .tabBlock
+        {
+            background-color:#57574f;
+            border:solid 0px #FFA54F;
+            border-radius:5px; -moz-border-radius:5px; -webkit-border-radius:5px;
+            max-width:200px;
+            width:100%;
+            overflow:hidden;
+            display:block;
+        }
+        .clock
+        {
+            vertical-align:middle;
+            font-family:Orbitron;
+            font-size:40px;
+            font-weight:normal;
+            color:#FFF;
+            padding:0 10px;
+        }
+        .clocklg
+        {
+            vertical-align:middle;
+            font-family:Orbitron;
+            font-size:20px;
+            font-weight:normal;
+            color:#FFF;
+        }
+    </style>
+</head>
+
+<!-- ON LOAD OF THE PAGE, THE CLOCK WILL START TICKING. -->
+<body onload="digitized();">
+    <div style="background-color:#F3F3F3;
+        max-width:220px;width:100%;margin:0 auto;padding:20px;">
+
+        <table class="tabBlock" align="center" cellspacing="0" cellpadding="0" border="0">
+            <tr><td class="clock" id="dc"></td>  <!-- THE DIGITAL CLOCK. -->
+                <td>
+                    <table cellpadding="0" cellspacing="0" border="0">
+
+                        <!-- HOUR IN 'AM' AND 'PM'. -->
+                        <tr><td class="clocklg" id="dc_hour"></td></tr>
+
+                        <!-- SHOWING SECONDS. -->
+                        <tr><td class="clocklg" id="dc_second"></td></tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </div>
+</body>
+
+<script>
+    // OUR FUNCTION WHICH IS EXECUTED ON LOAD OF THE PAGE.
+    function digitized() {
+        var dt = new Date();    // DATE() CONSTRUCTOR FOR CURRENT SYSTEM DATE AND TIME.
+        var hrs = dt.getHours();
+        var min = dt.getMinutes();
+        var sec = dt.getSeconds();
+
+        min = Ticking(min);
+        sec = Ticking(sec);
+
+        document.getElementById('dc').innerHTML = hrs + ":" + min;
+        document.getElementById('dc_second').innerHTML = sec;
+
+        if (hrs > 12) {
+            document.getElementById('dc_hour').innerHTML = 'PM';
+        }
+        else {
+            document.getElementById('dc_hour').innerHTML = 'AM';
+        }
+
+        // CALL THE FUNCTION EVERY 1 SECOND (RECURSION).
+        var time
+        time = setInterval('digitized()', 1000);
+    }
+
+    function Ticking(ticVal) {
+        if (ticVal < 10) {
+            ticVal = "0" + ticVal;
+        }
+        return ticVal;
+    }
+</script>
+
+
+<body>
+
+<h1>Maps (credit to google maps)</h1>
+
+<div id="googleMap" style="width:100%;height:400px;"></div>
+
+<script>
+function myMap() {
+var mapProp= {
+  center:new google.maps.LatLng(51.508742,-0.120850),
+  zoom:5,
+};
+var map = new google.maps.Map(document.getElementById("googleMap"),mapProp);
+}
+</script>
+
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDz9LebwdbJl_xba0DKzuosPCcMt-VwH8M&callback=myMap"></script>
+
+</body>
+
+<body>
+
+<p>Click this button to see your coordinates! Its a new feature on the browser!</p>
+
+<button onclick="getLocation()">Click here!</button>
+
+<p id="demo"></p>
+
+<script>
+var x = document.getElementById("demo");
+
+function getLocation() {
+  if (navigator.geolocation) {
+    navigator.geolocation.getCurrentPosition(showPosition);
+  } else {
+    x.innerHTML = "Geolocation is not supported by this browser.";
+  }
+}
+
+function showPosition(position) {
+  x.innerHTML = "Latitude: " + position.coords.latitude +
+  "<br>Longitude: " + position.coords.longitude;
+}
+</script>
+
+</body>
+
+<h2> Go support me on tiktok </h2>
+
+
+
+    <button onclick="NewTab()">
+     TIKTOK
+  </button>
+
+    <script>
+        function NewTab() {
+            window.open(
+              "https://www.tiktok.com/@rbx_tiktok?lang=en&is_copy_url=1&is_from_webapp=v2", "_blank");
+        }
+    </script>
+<a title="TikTok" class="jsx-3865220200 logo-link" href="/?lang=en"><img src="https://sf16-scmcdn-sg.ibytedtos.com/goofy/tiktok/web/node/_next/static/images/logo-dark-e95da587b6efa1520dcd11f4b45c0cf6.svg" alt="TikTok" class="jsx-1009840709 logo-icon"><img src="https://sf16-scmcdn-sg.ibytedtos.com/goofy/tiktok/web/node/_next/static/images/logo-text-dark-673b189595b95d8bbf2ab1783ae2ab25.svg" alt="TikTok" class="jsx-1009840709 logo-text"><strong class="jsx-1009840709"></strong></a>
+  
+  
+ <html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Optimal Web : Contact Form With JS</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+  <!-- contact1 -->
+  <section class="w3l-simple-contact-form1">
+    <div class="contact-form section-gap">
+      <div class="wrapper">
+        <div class="text-center">
+        <h1 style="font-size: 40px; " >Contact Us (sorry for the glitchy outlines)</h1>
+      </div>
+<p>
+        <div class="contact-form" style="max-width: 450px; margin: 0 auto;">
+          <div class="form-mid">
+            <form action="javascript:sendmail()" method="post">
+              <div class="field">
+                <input type="text" class="form-control" name="Name" id="Name" placeholder="Name" required="">
+              </div>
+</p>
+<p>
+              <div class="field">
+                <input type="email" class="form-control" name="Sender" id="Sender" placeholder="Email"
+                  required="">
+              </div>
+</p>
+<p>
+              <div class="field">
+                <input type="text" class="form-control" name="Subject" id="Subject" placeholder="Subject"
+                  required="">
+              </div>
+</p>
+              <textarea name="Message" class="form-control" id="Message" placeholder="Message"
+                required=""></textarea>
+              <button type="submit" class="btn btn-contact">Send Message</button>
+              <!-- <input type="button" class="btn btn-contact" onclick="sendmail();"  value="Send Message"> -->
+
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- /contact1 -->
+
+<!-- <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script> -->
+<script
+  src="https://code.jquery.com/jquery-2.2.4.min.js"
+  integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+  crossorigin="anonymous"></script>
+<script src="https://smtpjs.com/v3/smtp.js"></script>
+
+<script>
+
+     function sendmail(){
+
+			var name = $('#Name').val();
+			var email = $('#Sender').val();
+			var subject = $('#Subject').val();
+      var message = $('#Message').val();
+
+			// var body = $('#body').val();
+
+			var Body='Name: '+name+'<br>Email: '+email+'<br>Subject: '+subject+'<br>Message: '+message;
+			//console.log(name, phone, email, message);
+
+			Email.send({
+        SecureToken:"fbf31702-bb7f-4a4e-9c1c-4ccf17ee777f",
+				To: 'icbrowserinfo@gmail.com',
+				From: "helpdeskicofficial@gmail.com",
+				Subject: "New message on contact from "+name,
+				Body: Body
+			}).then(
+				message =>{
+					//console.log (message);
+					if(message=='OK'){
+					alert('Your mail has been send. Thank you for connecting. It will take a few days to get to you.');
+					}
+					else{
+						console.error (message);
+						alert('There is error at sending message. ')
+
+					}
+
+				}
+			);
+
+
+
+		}
+
+
+    </script>
+ </script>
+
+</body>
+
+
+<h3>-----------------------------------------------------------------------end--------------------------------------------------------------------------------</h3>
+</html>
